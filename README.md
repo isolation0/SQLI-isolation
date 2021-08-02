@@ -5,7 +5,7 @@
 
 ```console
 # clone the repo
-$ git clone https://github.com/xadhrit/xira.git
+$ git clone https://github.com/fahad1h/xira.git
 
 # change the working directory to xira
 $ cd xira
@@ -71,11 +71,11 @@ done < $filename
 
 ```console
 
-clone the repo : git clone https://github.com/xadhrit/xss-hacker.git
+clone the repo : git clone https://github.com/fahad1h/xss-hacker.git
 
 ```
 ###### Issues:
-Contact me : <a href= "https://twitter.com/xadhrit">Twitter</a>
+Contact me : <a href= "https://Snapchat.com/e6.11">Snapvhat</a>
 <br />
 *Open an issue on github.com/xadhrit/xira/issues/*
 
