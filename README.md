@@ -5,7 +5,7 @@
 
 ```console
 # clone the repo
-$ git clone https://github.com/fahad1h/xira.git
+$ git clone https://github.com/fahad1h/SQLI-fahad.git
 
 # change the working directory to xira
 $ cd xira
