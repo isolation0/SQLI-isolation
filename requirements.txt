@@ -1,3 +1,4 @@
-terminal_banner
-termcolor
-google
+beautifulsoup4==4.9.3
+colorama==0.4.4
+pyfiglet
+
