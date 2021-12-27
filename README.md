@@ -75,7 +75,7 @@ clone the repo : git clone https://github.com/fahad1h/xss-hacker.git
 
 ```
 ###### Issues:
-Contact me : <a href= "https://Snapchat.com/e6.11">Snapvhat</a>
+Contact me : <a href= "https://twitter.com/iuexb?s=21">Twitter</a>
 <br />
 *Open an issue on github.com/xadhrit/xira/issues/*
 
