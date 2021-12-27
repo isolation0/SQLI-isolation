@@ -17,11 +17,11 @@ banner = ("""
               ╚═╗║═╬╗║  ║───╠╣ ║║║║ ║║║╣ ╠╦╝
               ╚═╝╚═╝╚╩═╝╩   ╚  ╩╝╚╝═╩╝╚═╝╩╚═                          
                         Made Fack bitsh ❤️ 
-            For the Shnaider, By Shnaider   
+            For the isolation, By isolation   
             ###################################
                   Hacker by Shnaider
-            Intagram  - https://instagram.com/R0ibu
-            SnapChat:  - https://snapchat.com/e6.11
+            Intagram  - https://instagram.com/R0ibi
+            Twitter:  - https://twitter.com/iuexb
                 Github - https://github.com/fahad1
                                     
        ( DONT COPY THE CODE. CONTRIBUTIONS ARE MOST WELCOME ❤️ )
