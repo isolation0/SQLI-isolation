@@ -19,7 +19,7 @@ banner = ("""
                         Made Fack bitsh ❤️ 
             For the isolation, By isolation   
             ###################################
-                  Hacker by Shnaider
+                  Hacker by isolation
             Intagram  - https://instagram.com/R0ibi
             Twitter:  - https://twitter.com/iuexb
                 Github - https://github.com/fahad1
