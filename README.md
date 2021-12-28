@@ -38,10 +38,6 @@ $ All details with successful payloads.
 $ True
 ```
 
-<p align=center>
-<img src="img/https://e.top4top.io/s_2040ojksc1.jpg"  height="400px" width="650px" alt="xira" />
-</p>
-
 
 ### Payloads Template
 We can use template.json to use payloads from Seclists or wherever you want. template.json will be our new payload.json file for using in our XSS Scanning. Change the name and make a copy before of payload.json from this repo, and template.json.
