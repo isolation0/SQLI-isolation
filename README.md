@@ -7,7 +7,7 @@
 # clone the repo
 $ git clone https://github.com/isolation0/SQLI-isolation.git
 
-# change the working directory to xira
+# change the working directory to SQLI-isolation
 $ cd SQLI-isolation
 
 # install the requirements
@@ -24,7 +24,7 @@ For windows
 ```console
 FOR LINUX/WINDOWS
 
-$ python3/python xira.py -u <url>
+$ python3/python SQLI-isolation.py -u <url>
 
 Enter the target's url : https://www.example.com
 ```
@@ -71,7 +71,7 @@ done < $filename
 
 ```console
 
-clone the repo : git clone https://github.com/fahad1h/xss-hacker.git
+clone the repo : git clone https://github.com/isolation0/xss-hacker.git
 
 ```
 ###### Issues:
