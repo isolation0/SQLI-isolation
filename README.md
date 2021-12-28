@@ -1,4 +1,4 @@
-## XIRA : xss vulnerablity scanner 
+## SQLI-isolation : xss vulnerablity scanner 
 
 
 ### Installation
