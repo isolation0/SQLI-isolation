@@ -73,7 +73,7 @@ clone the repo : git clone https://github.com/isolation0/xss-hacker.git
 ###### Issues:
 Contact me : <a href= "https://twitter.com/iuexb?s=21">Twitter</a>
 <br />
-*Open an issue on github.com/isolation0/SQLI-isolation/*
+*Open an issue on <a herf= "https://github.com/isolation0">github</a>*
 
 **LICENSE**
 
