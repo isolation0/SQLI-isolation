@@ -8,7 +8,7 @@
 $ git clone https://github.com/isolation0/SQLI-isolation.git
 
 # change the working directory to xira
-$ cd xira
+$ cd SQLI-isolation
 
 # install the requirements
  
